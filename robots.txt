@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://engard.vercel.app/sitemap.xml
